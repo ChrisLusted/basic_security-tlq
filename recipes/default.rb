@@ -1,8 +1,9 @@
 # list of security specific packages to be installed
+# unattended-upgrades
 packages = %w(
   fail2ban
   ufw
-  unattended-upgrades
+  
 )
 
 # install the above security packages
